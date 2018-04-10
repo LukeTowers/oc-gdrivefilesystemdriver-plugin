@@ -1,0 +1,18 @@
+{
+    "name": "luketowers/oc-gdrivefilesystemdriver-plugin",
+    "type": "october-plugin",
+    "description": "Provides the Google Drive Filesystem Driver for OctoberCMS",
+    "homepage": "https://github.com/LukeTowers/oc-gdrivefilesystemdriver-plugin",
+    "keywords": ["october", "octobercms", "google drive", "gdrive", "filesystem", "driver", "laravel"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Luke Towers",
+            "email": "octobercms@luketowers.ca"
+        }
+    ],
+    "require": {
+        "composer/installers": "~1.0",
+        "nao-pon/flysystem-google-drive": "~1.1"
+    }
+}
