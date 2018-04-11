@@ -24,7 +24,7 @@ class Plugin extends PluginBase
             'name'        => 'luketowers.gdrivefilesystemdriver::lang.plugin.name',
             'description' => 'luketowers.gdrivefilesystemdriver::lang.plugin.description',
             'author'      => 'Luke Towers',
-            'icon'        => 'icon-lock',
+            'icon'        => 'icon-database',
             'homepage'    => 'https://github.com/LukeTowers/oc-gdrivefilesystemdriver-plugin',
         ];
     }
