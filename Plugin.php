@@ -9,7 +9,7 @@ use Hypweb\Flysystem\GoogleDrive\GoogleDriveAdapter;
 use System\Classes\PluginBase;
 
 /**
- * Passport Plugin Information File
+ * Google Drive File System Drive Plugin Information File
  */
 class Plugin extends PluginBase
 {
