@@ -1,3 +1,6 @@
+Use https://github.com/wintercms/wn-drivergoogledrive-plugin instead.
+
+
 # About
 
 October-fied implementation of the [Google Drive Flysystem Driver](https://github.com/nao-pon/flysystem-google-drive). 
